@@ -1,2 +1,2 @@
 # Ding-Issue-Tracker
-This repo is for tracking Ding issues
+This repo is for tracking Ding [issues](https://github.com/dingtools/Ding-Issue-Tracker/issues)
